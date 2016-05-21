@@ -1,7 +1,7 @@
 {
   "name": "geopattern",
   "description": "Generate beautiful SVG patterns",
-  "main": "index.js",
+  "main": "js/geopattern.min.js",
   "authors": [
     "Brandon Mills",
     "Jason Long"
@@ -15,10 +15,5 @@
   ],
   "homepage": "https://github.com/davguij/geopattern",
   "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
   ]
 }
