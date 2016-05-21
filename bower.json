@@ -1,0 +1,24 @@
+{
+  "name": "geopattern",
+  "description": "Generate beautiful SVG patterns",
+  "main": "index.js",
+  "authors": [
+    "Brandon Mills",
+    "Jason Long"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "svg",
+    "pattern",
+    "geometric",
+    "background"
+  ],
+  "homepage": "https://github.com/davguij/geopattern",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
